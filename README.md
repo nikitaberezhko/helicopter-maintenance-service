@@ -6,7 +6,7 @@ Intermediate maintenance is more often performed at a maintenance centre due to 
 
 #### Description:
 My first project is based on microservice architecture.
-All microservices, with the exception of Gateway, are written in the spirit of clien architecture.
+All microservices, with the exception of Gateway, are written in the spirit of clean architecture.
 
 The Gateway microservice uses the Refit wrapper library on top of HttpClient.
 PostgreSQL is used as databases. To work with the database, use the Entity Framework Core.
